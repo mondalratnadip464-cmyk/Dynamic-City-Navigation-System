@@ -4,7 +4,7 @@
 ![Algorithm](https://img.shields.io/badge/Algorithm-Dijkstra's%20Shortest%20Path-2EA44F?style=flat-square)
 ![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey?style=flat-square)
 ![Course](https://img.shields.io/badge/Course-3rd%20Sem%20DSA%20Project-orange?style=flat-square)
-![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square)
+
 
 A console-based, runtime-configurable routing engine built in **C** that models real-world road networks as undirected weighted graphs and computes optimal shortest paths using **Dijkstra's Greedy Algorithm**.
 
