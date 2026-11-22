@@ -225,6 +225,4 @@ Querying the shortest path from **`Home`** to **`Airport`** bypasses the longer 
 
 ---
 
-## License
 
-This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
