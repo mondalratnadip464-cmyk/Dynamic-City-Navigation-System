@@ -5,7 +5,6 @@
 ![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey?style=flat-square)
 ![Course](https://img.shields.io/badge/Course-3rd%20Sem%20DSA%20Project-orange?style=flat-square)
 
-
 A console-based, runtime-configurable routing engine built in **C** that models real-world road networks as undirected weighted graphs and computes optimal shortest paths using **Dijkstra's Greedy Algorithm**.
 
 Developed as a **3rd-Semester Data Structures and Algorithms (DSA)** project at the **Department of Electronics and Communication Engineering, Institute of Engineering & Management (IEM), Kolkata**.
